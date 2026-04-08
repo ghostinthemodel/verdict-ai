@@ -169,7 +169,7 @@ This platform is part of a broader AI/ML QA portfolio:
 10+ years of QA experience across fintech, e-commerce, SaaS, and consulting.
 Specialising in quality engineering for AI-powered systems.
 
-[LinkedIn](https://linkedin.com/in/tapanshah) · [Portfolio](https://ghostinthemodel.github.io/ai-qa-portfolio/) · [GitHub](https://github.com/ghostinthemodel)
+[LinkedIn](https://linkedin.com/in/tapanshah21) · [Portfolio](https://ghostinthemodel.github.io/ai-qa-portfolio/) · [GitHub](https://github.com/ghostinthemodel)
 
 ---
 
